@@ -8,4 +8,4 @@ export default {
   },
   tag: true // need git tag?
   // release: true
-};
+}

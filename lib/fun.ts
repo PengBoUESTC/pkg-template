@@ -1,5 +1,5 @@
 const fun = () => {
-  console.log('te');
-};
+  console.log('te')
+}
 
-export default fun;
+export default fun
