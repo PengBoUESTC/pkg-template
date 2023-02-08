@@ -14,19 +14,10 @@
     "postinstall": "npx simple-git-hooks",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PengBoUESTC/npm-registry-axios.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PengBoUESTC/npm-registry-axios/issues"
-  },
-  "homepage": "https://github.com/PengBoUESTC/npm-registry-axios#readme",
   "dependencies": {
-    "axios": "^1.2.0",
     "release-pkg": "^1.1.2"
   },
   "devDependencies": {
