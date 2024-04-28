@@ -3,13 +3,13 @@
 ## init
 
 ```bash
-npm i
+yarn
 ```
 
 ## build
 
 ```bash
-npm run build
+yarn build
 ```
 
 ## release
@@ -17,7 +17,7 @@ npm run build
 1. rewirte release config file `release.config.ts`, set your `releaseUser` & `scripts`
 2. run command
 ```bash
-npm run release
+yarn release
 ```
 
 ## note
